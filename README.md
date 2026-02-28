@@ -54,5 +54,5 @@ Implementar edição de tarefas
 Criar funcionalidade de remoção de tarefas
 Melhorar o design da interface
 
-👩‍💻 Autor
-Desenvolvido por você 🚀
+
+
